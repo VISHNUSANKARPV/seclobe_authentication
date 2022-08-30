@@ -1,16 +1,56 @@
 # authentication_seclobe
 
-A new Flutter project.
+## Download Apks
 
-## Getting Started
+apks for diffrent platforms
 
-This project is a starting point for a Flutter application.
+* [arm64-v8a](https://drive.google.com/file/d/1zvPXi8tefujKjO_lhoqpIq7DweEPZH4T/view?usp=sharing)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* [armeabi-v7a](https://drive.google.com/file/d/1phlCHVUOyuQUrZGUWvFBsbYhN3ssNVSH/view?usp=sharing)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+* [app-x86_64](https://drive.google.com/file/d/1AqAgz2O6b0t7T-BRE72tCim2ssnuSMnk/view?usp=sharing)
+
+
+## How to Use 
+
+Step 1:
+
+Download or clone this repo by using the link below:
+
+
+https://github.com/VISHNUSANKARPV/seclobe_sample_project.git
+
+
+
+Step 2:
+
+
+Go to project root and execute the following command in console to get the required dependencies: 
+
+
+flutter pub get 
+
+
+
+ Step 3:
+
+For run the project :  
+
+flutter run 
+
+
+## Followed Architecture
+
+MVC
+
+## Followed StateManagement
+
+GetX
+
+## Libraries & Tools Used 
+
+* [get](https://pub.dev/packages/get)
+* [http](https://pub.dev/packages/http)
+* [shared_preferences](https://pub.dev/packages/shared_preferences)
