@@ -19,26 +19,29 @@ Step 1:
 
 Download or clone this repo by using the link below:
 
+```
+https://github.com/VISHNUSANKARPV/seclobe_authentication
 
-https://github.com/VISHNUSANKARPV/seclobe_sample_project.git
-
-
+```
 
 Step 2:
 
 
 Go to project root and execute the following command in console to get the required dependencies: 
 
-
+```
 flutter pub get 
 
-
+```
 
  Step 3:
 
-For run the project :  
+For run the project : 
 
+```
 flutter run 
+
+```
 
 
 ## Followed Architecture
